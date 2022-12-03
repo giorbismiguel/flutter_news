@@ -7,7 +7,7 @@ import '../../../core/bloc/bloc_with_state.dart';
 import '../../../core/params/article_request.dart';
 import '../../../core/resources/data_state.dart';
 import '../../../domain/entities/article.dart';
-import '../../../domain/usecaes/get_articles_usecase.dart';
+import '../../../domain/usecases/get_articles_usecase.dart';
 
 part 'remote_articles_event.dart';
 part 'remote_articles_state.dart';
